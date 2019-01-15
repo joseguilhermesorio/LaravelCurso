@@ -1,0 +1,23 @@
+#navbar {
+    margin: 0;
+}
+
+.jumbotron {
+    margin-top: 10px;
+}
+
+.jumbotron .card p.card-text{
+    height: 50px;
+}
+
+button.btn-primary, button.btn-danger {
+    margin-top: 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+.table {
+    margin-top: 20px;
+}
